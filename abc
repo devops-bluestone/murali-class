@@ -9,3 +9,4 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 192.168.1.180 bluestone
 192.168.1.192 masterdns
+This is a test addition
